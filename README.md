@@ -3,7 +3,7 @@
 <!-- #### 🚀MyGithub Stats
 ![DavidKoswendi GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidKoswendi&show_icons=true&theme=dracula) -->
 #### 💫 About Me:
-##### Hi 👋! Hello, my name is David Koswendi, I am a frontend developer
+##### I am a 17 year old boy who is pursuing his dream of becoming a pro programmer.
 ---
 
 #### 👨‍💻Skils
