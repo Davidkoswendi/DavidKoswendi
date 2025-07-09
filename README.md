@@ -47,7 +47,7 @@
 
 ---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wer2xt2o7tx7aenohjckcb2i5u&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wer2xt2o7tx7aenohjckcb2i5u)
 
 ---
 ###
