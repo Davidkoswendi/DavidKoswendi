@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋! my name is David Koswendi, I am a frontend developer</h1> 
+<h4 alight="left">💫 About Me<h4>
 <div align="center">
-    <h4>💫 About Me:<h4>
     <p>I am a 17 year old boy who is pursuing his dream of becoming a pro programmer.</p>
 </div>
 
 ---
-
+<h3 align="left">🚀Skils</h3>
 <div align="center">
-<h3>🚀Skils🚀</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -20,8 +19,7 @@
 </div>
 
 ---
-
-<div align="center">
+<div align="left">
 <h3>📫Tech I Use</h3>
   <a href="https://www.instagram.com/davedzz29?igsh=MWY3NWRwdnMwaGd3OQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
@@ -41,17 +39,21 @@
 </div>
 
 ---
+
+<h3>📊Github Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=DavidKoswendi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=DavidKoswendi&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 ---
+<h3>🎵my music playlist</h3>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31wer2xt2o7tx7aenohjckcb2i5u)
 
 ---
 ###
+<h2 alight="left">🌕Play Game With Me<h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidKoswendi/DavidKoswendi/output/pacman-contribution-graph-dark.svg">
