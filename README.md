@@ -19,8 +19,8 @@
 </div>
 
 ---
-<div align="left">
 <h3>📫Tech I Use</h3>
+<div align="center">
   <a href="https://www.instagram.com/davedzz29?igsh=MWY3NWRwdnMwaGd3OQ==" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
