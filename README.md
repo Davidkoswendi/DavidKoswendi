@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! Hello, my name is David Koswendi, I am a frontend developer</h1> 
+<h1 align="center">Hi 👋! my name is David Koswendi, I am a frontend developer</h1> 
 <div align="center">
     <h4>💫 About Me:<h4>
     <p>I am a 17 year old boy who is pursuing his dream of becoming a pro programmer.</p>
